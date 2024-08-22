@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "69132b65-5f0b-4ed7-8803-56f01bbb9a87")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 29.718 75.184)
+		(size 91.948 36.068)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "123ae824-de9a-4e4a-b740-fa58c0259378")
+		(property "Sheetname" "power"
+			(at 29.718 74.4724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 29.718 111.8366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32"
+				(path "/69132b65-5f0b-4ed7-8803-56f01bbb9a87"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.192 23.368)
+		(size 90.678 38.354)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "484ad768-8d2f-48df-8447-c0d9d56f6294")
+		(property "Sheetname" "usb and sim"
+			(at 139.192 22.6564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_sim.kicad_sch"
+			(at 139.192 62.3066 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32"
+				(path "/69132b65-5f0b-4ed7-8803-56f01bbb9a87"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.464 23.368)
+		(size 92.202 38.608)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b8b80ef5-66fb-4a07-a6c8-e5be941d4d88")
+		(property "Sheetname" "esp32"
+			(at 29.464 22.6564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 29.464 62.5606 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32"
+				(path "/69132b65-5f0b-4ed7-8803-56f01bbb9a87"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
